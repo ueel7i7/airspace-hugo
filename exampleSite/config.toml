@@ -44,6 +44,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
+URL = ""
+name = "Madam"
+weight = ""
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
