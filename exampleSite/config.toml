@@ -1,4 +1,4 @@
-baseURL = "http://test-ueel7i7.netlify.com"
+baseURL = "http://test-ueel7i7.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
